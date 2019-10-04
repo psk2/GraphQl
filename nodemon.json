@@ -1,0 +1,8 @@
+{
+    "env":{
+        "MONGO_USER":"psk",
+        "MONGO_PASSWORD":"root",
+        "MONGO_DB":"events-react-dev",
+        "MONGO_URL":"mongodb+srv://root:<password>@psk-fxqzq.mongodb.net/admin?retryWrites=true&w=majority"
+    }
+}
